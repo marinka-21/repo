@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 One thousand burning arrows Fill the starlit sky
+=======
+The ship glides on the waves As day turns into night
+>>>>>>> feature
+One thousand burning arrows Fill the starlit sky The ship glides on the waves As day turns into night
